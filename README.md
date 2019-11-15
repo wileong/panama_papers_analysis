@@ -1,3 +1,3 @@
 # panama_papers_analysis
 
-.ipynb files can now be rendered on GitHub.
+.ipynb (Jupyter Notebook) files can now be rendered on GitHub.
